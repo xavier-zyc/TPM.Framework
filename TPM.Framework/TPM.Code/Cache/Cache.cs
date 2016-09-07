@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Web;
 
-namespace TPM.Code.Cache
+namespace TPM.Code
 {
     public class Cache : ICache
     {

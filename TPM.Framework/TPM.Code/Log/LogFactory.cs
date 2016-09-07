@@ -3,7 +3,7 @@ using log4net;
 using System.IO;
 using System.Web;
 
-namespace TPM.Code.Log
+namespace TPM.Code
 {
     public class LogFactory
     {

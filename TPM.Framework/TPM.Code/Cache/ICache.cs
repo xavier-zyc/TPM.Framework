@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TPM.Code.Cache
+namespace TPM.Code
 {
     public interface ICache
     {

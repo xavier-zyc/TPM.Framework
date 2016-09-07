@@ -1,6 +1,6 @@
 ﻿using log4net;
 
-namespace TPM.Code.Log
+namespace TPM.Code
 {
     public class Log
     {
